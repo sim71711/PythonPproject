@@ -1939,5 +1939,3 @@ if __name__ == "__main__":
 
     print("🟢 main_loop 시작")  # <- 여기도 디버깅 추가
     main_loop()
-
-    print("HELLO")
